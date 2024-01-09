@@ -23,7 +23,7 @@
 
 
 ## 🛠️ Abrir e rodar o projeto
-- `Baixar projeto` git clone https://github.com/Amanda92Cortez/alura-perfil.git
+- `Baixar projeto` git clone https://github.com/Amanda92Cortez/perfil-amanda.git
 - `Baixar npm` npm install
 - `Baixar react-markdown` npm install react-markdown
 - `Executar` npm start

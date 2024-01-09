@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "titulo": "Alurakut",
+        "texto": "> Fonte: Imersão React 3ª edição (2021) \n\n Alurakut é uma aplicação do clone Orkut.\n\n [Repositório Github Alurakut](https://github.com/Amanda92Cortez/alura-alurakut) \n\n ### Um pouco de história do Orkut \n\n O Orkut foi fundado 24 de Janeiro de 2004 pelo Orkut Büyükkökten, após 10 anos, no dia 24 de Setembro de 2014 com avanço da internet e das plataformas de comunicação, a rede social do Brasil doi desativada. \n\n ### Funcionalidade \n\n Listar todos os amigos, autenticação pelo API do Github e navegação de perfis. \n\n ### Projeto \n\n Pra entrar utilizando login username do Github \n\n ![capa da alurakut](/assets/posts/1/capa_alurakut.png)  \n\n ### Tecnologia \n\n ![React](https://img.shields.io/badge/React-414141?style=for-the-badge&logo=react&logoColor=61DAFB) \n\n ![Next.js](https://img.shields.io/badge/-Next-121214?style=for-the-badge&logo=next.js) \n\n ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) " 
+    },
+
+    {
+        "id": 2,
+        "titulo": "Alura Barbearia",
+        "texto": "> Fonte: Curso de Formação Front-End \n\n [Repositório Github Barbearia](https://github.com/Amanda92Cortez/alura-barbearia)\n\n[Página Barbearia](https://amanda92cortez.github.io/alura-barbearia/) \n\n  ### Projeto \n\n Plataforma pra empresa Barbearia Alura \n\n ![capa da barbearia](/assets/posts/2/capa_barbearia.png) \n\n ![capa da barbearia](/assets/posts/2/capa_barbearia2.png) \n\n ### Tecnologia \n\n ![HTML5](https://img.shields.io/badge/HTML-e06b12?style=for-the-badge&logo=html5&logoColor=white) \n\n ![CSS](https://img.shields.io/badge/CSS-1283e0?&style=for-the-badge&logo=css3&logoColor=white) \n\n "
+    },
+    {
+        "id": 3,
+        "titulo": "Alura Harry Potter",
+        "texto": "> Fonte: Curso de Formação Front-End e Formação CSS Estilos \n\n [Repositório Github Harry Potter](https://github.com/Amanda92Cortez/alura-harry-potter)\n\n[Página Harry Potter](https://amanda92cortez.github.io/alura-harry-potter/) \n\n  ### Projeto \n\n Plataforma Harry Potter \n\n ![capa do harry potter](/assets/posts/3/capa_harrypotter1.png) \n\n ![capa do harry potter](/assets/posts/3/capa_harrypotter2.png) \n\n ![capa do harry potter](/assets/posts/3/capa_harrypotter3.png) \n\n ### Tecnologia \n\n ![HTML5](https://img.shields.io/badge/HTML-e06b12?style=for-the-badge&logo=html5&logoColor=white) \n\n ![CSS](https://img.shields.io/badge/CSS-1283e0?&style=for-the-badge&logo=css3&logoColor=white)  \n\n "
+    },
+    {
+        "id": 4,
+        "titulo": "Alura HZC",
+        "texto": "> Fonte: Formação HTML e CSS + Curso Dispondo elementos com Flexbox e Grid \n\n [Repositório Github HZC](https://github.com/Amanda92Cortez/alura-hzc)\n\n[Página HZC](https://amanda92cortez.github.io/alura-hzc/picos.html) \n\n  ### Projeto \n\n Plataforma HZC \n\n ![capa do hzc](/assets/posts/4/capa_hzc1.png) \n\n ![capa do hzc](/assets/posts/4/capa_hzc2.png) \n\n ![capa do hzc](/assets/posts/4/capa_hzc3.png) \n\n ### Tecnologia \n\n ![HTML5](https://img.shields.io/badge/HTML-e06b12?style=for-the-badge&logo=html5&logoColor=white) \n\n ![CSS](https://img.shields.io/badge/CSS-1283e0?&style=for-the-badge&logo=css3&logoColor=white)\n\n![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=414141)"
+    },
+    {
+        "id": 5,
+        "titulo": "Alura Nutricionista",
+        "texto": "> Fonte: Formação Front-End (Oracle One) \n\n [Repositório Github Nutricionista](https://github.com/Amanda92Cortez/alura-nutricionista)\n\n[Página Nutricionista](https://amanda92cortez.github.io/alura-nutricionista/) \n\n  ### Projeto \n\n Plataforma Nutricionista \n\n Cadastrar paciente do peso, altura e gordura corporal pra calcular IMC \n Clicando 2x no nome delete na lista \n\n ![capa da nutricionista](/assets/posts/5/capa_nutricionista1.png) \n\n ### Tecnologia \n\n ![HTML5](https://img.shields.io/badge/HTML-e06b12?style=for-the-badge&logo=html5&logoColor=white) \n\n ![CSS](https://img.shields.io/badge/CSS-1283e0?&style=for-the-badge&logo=css3&logoColor=white)\n\n![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=414141) "
+    },
+    {
+        "id": 6,
+        "titulo": "Alura Organograma (V1)",
+        "texto": "> Fonte: Formação Explore React com JavaScript (Curso: React Desenvolvendo com JavaScript)  \n\n [Repositório Github Organograma (Versão 1)](https://github.com/Amanda92Cortez/alura-organograma-v1)\n\n ### Projeto \n\n Plataforma Organograma \n\n Cadastrar colaborador(a) no card de cada time com imagem pelo GitHub \n\n Clica lado direito do mouse cima da foto e abrir uma imagem em uma nova guia. Após isso copia link da foto e colocar no campo 'Imagem' \n\n ![capa do organo](/assets/posts/6/capa_organo_v1_1.png) \n\n ![capa do organo](/assets/posts/6/capa_organo_v1_2.png) \n\n ### Tecnologia \n\n ![React](https://img.shields.io/badge/React-414141?style=for-the-badge&logo=react&logoColor=61DAFB) \n\n ![CSS](https://img.shields.io/badge/CSS-1283e0?&style=for-the-badge&logo=css3&logoColor=white)\n\n![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=414141) "
+    },
+    {
+        "id": 7,
+        "titulo": "Alura Organograma (V2)",
+        "texto": "> Fonte: Formação Explore React com JavaScript (Curso: React como os componentes funcionam)  \n\n [Repositório Github Organograma (Versão 2)](https://github.com/Amanda92Cortez/alura-organograma-v2)\n\n ### Projeto \n\n Plataforma Organograma \n\n Complemento da versão 1, mas neste curso sinalizando para deletar os colaboradores, mundaça de cores e cadastrar novo time com cores \n\n ![capa do organo](/assets/posts/7/capa_organo_v2_1.png) \n\n ![capa do organo](/assets/posts/7/capa_organo_v2_2.png) \n\n ### Tecnologia \n\n ![React](https://img.shields.io/badge/React-414141?style=for-the-badge&logo=react&logoColor=61DAFB) \n\n ![CSS](https://img.shields.io/badge/CSS-1283e0?&style=for-the-badge&logo=css3&logoColor=white)\n\n![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=414141)"
+    },
+    {
+        "id": 8,
+        "titulo": "Alura Quiz",
+        "texto": "> Fonte: Imersão React 2ª edição (2021) \n\n [Repositório Github Quiz Virus](https://github.com/Amanda92Cortez/alura-quiz-virus) \n\n  ### Projeto \n\n Pra testar os seus conhecimentos \n\n (Pendente de imagens)  \n\n ![Capa da alura quiz](/assets/posts/8/capa_alurakut.png)  \n\n ### Tecnologia \n\n ![React](https://img.shields.io/badge/React-414141?style=for-the-badge&logo=react&logoColor=61DAFB) \n\n ![Next.js](https://img.shields.io/badge/-Next-121214?style=for-the-badge&logo=next.js) \n\n ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)"
+    },
+    {
+      "id": 9,
+      "titulo": "Orange Juice Instagram",
+      "texto": "> Fonte: Programa de Formação 5.0 \n\n [Repositório Github Clone Instagram](https://github.com/Amanda92Cortez/orange-clone-instagram) \n\n [Página Clone Instagram](https://amanda92cortez.github.io/orange-clone-instagram/) \n\n  ### Projeto \n\n Aprender linguagem básica do exemplo recriar Instagram \n\n ![Capa da clone instagram](/assets/posts/9/capa_instagram_1.png)  \n\n ### Tecnologia \n\n ![HTML5](https://img.shields.io/badge/HTML-e06b12?style=for-the-badge&logo=html5&logoColor=white) \n\n ![CSS](https://img.shields.io/badge/CSS-1283e0?&style=for-the-badge&logo=css3&logoColor=white) \n\n ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=414141) \n\n ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) "
+  },
+  {
+    "id": 10,
+    "titulo": "Diversos ParallexSlider",
+    "texto": "> Fonte: Programa de Formação 5.0 \n\n [Repositório Github ParallexSlider](https://github.com/Amanda92Cortez/ParallexSlider) \n\n [Página ParallexSlider](https://amanda92cortez.github.io/ParallexSlider/) \n\n  ### Projeto \n\n Aprender desenolver como deslizar as imagens e botão de musicas \n\n ![Capa da parallexSlider](/assets/posts/10/capa_parallex.png)  \n\n ### Tecnologia \n\n ![HTML5](https://img.shields.io/badge/HTML-e06b12?style=for-the-badge&logo=html5&logoColor=white) \n\n ![CSS](https://img.shields.io/badge/CSS-1283e0?&style=for-the-badge&logo=css3&logoColor=white) \n\n ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=414141)  "
+}
+]

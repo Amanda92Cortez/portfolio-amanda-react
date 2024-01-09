@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM_ANDAMENTO&color=RED&style=for-the-badge" #vitrinedev/>
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADA&color=RED&style=for-the-badge" #vitrinedev/>
 </p>
 
 <h1>Olá Mundo Alura (Perfil)</h1>
@@ -11,6 +11,7 @@
 
 # :hammer: Funcionalidades do projeto
 - `Funcionalidade` Perfil + Sobre Mim + Post + React Markdown
+- `Observação ` Projeto todos modificado conforme minha necessidade
 </br></br>
 
 # :bookmark_tabs: Tecnologias
@@ -28,3 +29,4 @@
 - `Executar` npm start
 
 ## 📚Telas/Vídeos
+![image](https://github.com/Amanda92Cortez/perfil-amanda/assets/19363871/adbc8b0d-ccd9-49fe-915f-69095064f026)

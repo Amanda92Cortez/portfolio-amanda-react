@@ -52,7 +52,7 @@
 },
 {
   "id": 11,
-  "titulo": "Alura Meteora",
+  "titulo": "Alura Meteora (React)",
   "texto": "> Fonte: Formação Explore React com JavaScript (Curso: React Gerencie estados globalmente com Context API) \n\n ![Situação](http://img.shields.io/static/v1?label=STATUS&message=EM_ANDAMENTO&color=RED&style=for-the-badge) \n\n [Repositório Github Meteora](https://github.com/Amanda92Cortez/alura-meteora.gitr) \n\n  ### Projeto \n\n Aplicar a Context API para evitar o 'prop drilling', compartilhamento de dados entre componentes, temas e tokens de acessos e outros \n\n ![Capa da Meteora](/assets/posts/11/capa_meteora.png)  \n\n ### Tecnologia \n\n ![React](https://img.shields.io/badge/React-414141?style=for-the-badge&logo=react&logoColor=61DAFB) \n\n ![CSS](https://img.shields.io/badge/CSS-1283e0?&style=for-the-badge&logo=css3&logoColor=white) \n\n ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=414141)  "
 }
 ]

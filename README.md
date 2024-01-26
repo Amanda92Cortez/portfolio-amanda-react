@@ -2,15 +2,17 @@
    <img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADA&color=RED&style=for-the-badge" #vitrinedev/>
 </p>
 
-<h1>Olá Mundo Alura (Perfil)</h1>
+<h1>Olá Mundo  (Perfil) - Alura</h1>
 
-# :pushpin: Sobre do projeto
-- `Formação` Explore React com JavaScript
-- `Curso: React` React: Desenvolvendo em React Router com JavaScript
+# :pushpin: Formações
+- `Formação ` Explore React com JavaScript
+
+# :pushpin: Cursos
+- `Curso ` React: Desenvolvendo em React Router com JavaScript
 </br></br>
 
 # :hammer: Funcionalidades do projeto
-- `Funcionalidade` Perfil + Sobre Mim + Post + React Markdown
+- `Funcionalidade ` Perfil + Sobre Mim + Post + React Markdown
 - `Observação ` Projeto todos modificado conforme minha necessidade
 </br></br>
 
@@ -23,10 +25,10 @@
 
 
 ## 🛠️ Abrir e rodar o projeto
-- `Baixar projeto` git clone https://github.com/Amanda92Cortez/perfil-amanda.git
-- `Baixar npm` npm install
-- `Baixar react-markdown` npm install react-markdown
-- `Executar` npm start
+- `Baixar projeto ` git clone https://github.com/Amanda92Cortez/perfil-amanda.git
+- `Baixar npm ` npm install
+- `Baixar react-markdown ` npm install react-markdown
+- `Executar ` npm start
 
 ## 📚Telas/Vídeos
 ![image](https://github.com/Amanda92Cortez/perfil-amanda/assets/19363871/adbc8b0d-ccd9-49fe-915f-69095064f026)

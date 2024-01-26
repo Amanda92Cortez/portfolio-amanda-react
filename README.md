@@ -13,8 +13,12 @@
 
 # :hammer: Funcionalidades do projeto
 - `Funcionalidade ` Perfil + Sobre Mim + Post + React Markdown
+- Conheça a biblioteca react-router-dom e utilize seus principais recursos
+- Aprenda o que é e por que utilizar uma SPA (Single Page Application)
+- Resolva problemas utilizando rotas aninhadas e rotas dinâmicas
+- Explore os hooks do react-router-dom, como useLocation e useParams
+  
 - `Observação ` Projeto todos modificado conforme minha necessidade
-</br></br>
 
 # :bookmark_tabs: Tecnologias
 ![HTML5](https://img.shields.io/badge/HTML-e06b12?style=for-the-badge&logo=html5&logoColor=white)

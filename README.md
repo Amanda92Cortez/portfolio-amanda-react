@@ -1,33 +1,64 @@
-<p align="center"> <img src="http://img.shields.io/static/v1?label=STATUS_GERAL&message=FINALIZADA&color=RED&style=for-the-badge" #vitrinedev/> </p>
+<div align="center">
+  <h1 align="center">
+    My Portfolio (React)
+    <br />
+    <br />
+      <img src="/img/image_06.gif" alt="Docusaurus">
+    <br />
+  </h1>
 
-# Olá mundo! (Perfil)
-App apresenta os portfólios e sobre mim
+  <h2> 
+  
+  :construction: Projeto em construção :construction:
+  </h2>
+</div>
 
-## 🔨 Funcionalidades do projeto
+---
+
+# :file_folder: Índice 
+
+- [Descrição do Projeto](#id01)
+- [Ferramentas](#id02)
+- [Instalação](#id03)
+
+---
+
+# :pushpin: Descrição do Projeto <a name="id01"></a>
 O App apresneta de cada comunicação de projetos para visualizar e sobre mim.
 
-## :bookmark_tabs: Técnicas e tecnologias utilizadas
-As técnicas e tecnologias utilizadas pra isso são:
+---
 
-![HTML5](https://img.shields.io/badge/HTML-e06b12?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1283e0?&style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=414141)
-![React](https://img.shields.io/badge/React-414141?style=for-the-badge&logo=react&logoColor=61DAFB)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+# :computer: Ferramentas<a name="id02"></a>
 
-## 🎯 Desafio
-Tela de detalhes
-![](img/amostra.gif) GIF ?
+<div style="display: flex; gap: 10px;">
+  <img src="https://img.shields.io/badge/HTML-e06b12?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS-1283e0?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=414141" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-414141?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
+</div>
 
-## 📚Telas/Vídeos
-![image](https://github.com/Amanda92Cortez/perfil-amanda/assets/19363871/adbc8b0d-ccd9-49fe-915f-69095064f026)
+---
 
-## 🛠️ Abrir e rodar o projeto
-- ` Baixar projeto ` git clone https://github.com/Amanda92Cortez/perfil-amanda.git
-- ` Baixar npm ` npm install
-- ` Baixar react-markdown ` npm install react-markdown
-- ` Executar ` npm start
+# 🗂 Instalações <a name="id03"></a>
+#### Baixar Projeto e instalações
+```bash
+    # Clonar o repositório
+    $ git clone https://github.com/Amanda92Cortez/perfil-amanda.git
 
-## 🔎 Observações
-- [ ] Gif rápido
-- [ ] Finalizado
+    # Entrar no diretório
+    $ cd nomePasta
+
+    # Instalar as dependências
+    $ npm install
+
+    # Instalar react-markdown
+    npm install react-markdown
+
+    # Iniciar o projeto
+    $ npm start
+```
+
+---
+
+Feito com ❤️ por Amanda Cortez 👋🏽 [Acesse meu linkedin!](www.linkedin.com/in/amandacortez92)

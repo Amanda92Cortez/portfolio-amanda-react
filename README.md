@@ -9,7 +9,7 @@
 
   <h2> 
   
-  :construction: Projeto em construção :construction:
+  :white_check_mark: Projeto finalizado
   </h2>
 </div>
 
@@ -29,10 +29,8 @@ O App apresneta de cada comunicação de projetos para visualizar e sobre mim.
 
 ---
 
-
 # 🎯 Desafio <a name="id04"></a>
 <img src="/img/portfolio_v1.gif" alt="Docusaurus">
-
 
 ---
 
@@ -68,4 +66,5 @@ O App apresneta de cada comunicação de projetos para visualizar e sobre mim.
 
 ---
 
-Feito com ❤️ por Amanda Cortez 👋🏽 [Acesse meu linkedin!](www.linkedin.com/in/amandacortez92)
+
+Feito pela Amanda Cortez 👋🏽 [Acesse meu linkedin!](www.linkedin.com/in/amandacortez92)

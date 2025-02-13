@@ -19,12 +19,20 @@
 
 - [Descrição do Projeto](#id01)
 - [Ferramentas](#id02)
+- [Desafio](#id04)
 - [Instalação](#id03)
 
 ---
 
 # :pushpin: Descrição do Projeto <a name="id01"></a>
 O App apresneta de cada comunicação de projetos para visualizar e sobre mim.
+
+---
+
+
+# 🎯 Desafio <a name="id04"></a>
+<img src="/img/portfolio_v1.gif" alt="Docusaurus">
+
 
 ---
 
@@ -35,7 +43,6 @@ O App apresneta de cada comunicação de projetos para visualizar e sobre mim.
   <img src="https://img.shields.io/badge/CSS-1283e0?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=414141" alt="JavaScript">
   <img src="https://img.shields.io/badge/React-414141?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
 </div>
 
 ---

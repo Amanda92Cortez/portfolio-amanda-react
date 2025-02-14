@@ -3,7 +3,7 @@
     My Portfolio (React)
     <br />
     <br />
-    <img src="assets/img/banner.avif" alt="Banner">
+    <img src="img/banner.avif" alt="Banner">
     <br />
   </h1>
 

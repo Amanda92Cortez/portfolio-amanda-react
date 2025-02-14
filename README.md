@@ -3,7 +3,7 @@
     My Portfolio (React)
     <br />
     <br />
-      <img src="/img/image_06.gif" alt="Docusaurus">
+    <img src="assets/img/banner.avif" alt="Banner">
     <br />
   </h1>
 
